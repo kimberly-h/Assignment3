@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class AI : MonoBehaviour
 {
@@ -25,7 +26,7 @@ public class AI : MonoBehaviour
     {
         if(Physics2D.OverlapCircle(killCheckPos.position, 0.1f, PlayerLayer))
         {
-            Destroy(GameObject.FindGameObjectWithTag("Player"));
+            SceneManager.LoadScene("Start_End");
         }
         if (mustPatrol)
         {

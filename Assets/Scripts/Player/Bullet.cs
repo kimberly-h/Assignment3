@@ -6,5 +6,9 @@ public class Bullet : MonoBehaviour
     {
         Pool.Instance.AddToPool(gameObject);
 
+        if (collision.gameObject.tag == "Enemy")
+        {
+            Destroy(collision.gameObject);
+        }
     }
 }
