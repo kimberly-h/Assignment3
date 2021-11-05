@@ -22,8 +22,8 @@ Chubbycan charge up bullets to kill mobs to protect themselves.
 ___
 
 In-Game Screenshots: 
-![alt text]()
-![alt text]()
+![alt text](https://cdn.discordapp.com/attachments/679509961730162697/906020614731599902/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/679509961730162697/906020824589430874/unknown.png)
 ___
 
 Video URL:
