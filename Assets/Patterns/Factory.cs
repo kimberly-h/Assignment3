@@ -18,18 +18,7 @@ namespace Factory
 
         public override void Process()
         {
-            //Do shooting
             ps.Shoot();
-        }
-    }
-
-    public class ShieldAbility : Ability
-    {
-        private PlayerShoot ps;
-        public override void Process()
-        {
-            //Do shield
-            ps.Shield();
         }
     }
 
@@ -41,8 +30,6 @@ namespace Factory
             {
                 case "shoot":
                     return new ShootAbility();
-                case "shield":
-                    return new ShieldAbility();
                 default:
                     return null;
             }
