@@ -1,35 +1,33 @@
 # GameEngine
-Assignment 2
+Assignment 3
 
 **Build is found in the "BUILD" folder**
 
-OPTION E - SINGLETON PATTERN
-- To make the code more efficient 
-- Factory Design for Abilities: Multiple abilities in mind for our character
+SINGLETON PATTERN - Building Creator 
+- Each tile is a singleton
 
-Game Name: Chubbie's Escape from the Factory
+Game Name: Chubby's Escape from The Dust Bunnies
 ___
 
 Development Team: 
 100752265 Kimberly Hansuwan 
-100765502 Ayi Pranayanda 
-100593238 Jin Chan
 ___
 
 Game Description: 
-Chubbie the Red Ball is stuck in the basement of a factory. 
-Chubbie must parkor through the boxes and up to get to the surface. 
-To escape the factory Chubbie must use the doors to travel up multiple floors while encountering different colours of goop with different effects. 
+Chubby's the Blue Ball is stuck in the basement of a factory. 
+Chubby's must parkor through the boxes and up to get to the surface. 
+To escape the factory Chubbie avoid dust bunnies while encountering different colours of goop with different effects. 
+Chubbycan charge up bullets to kill mobs to protect themselves. 
 
 ___
 
 In-Game Screenshots: 
-![alt text](https://cdn.discordapp.com/attachments/885333229853356093/902391898629603358/unknown.png)
-![alt text](https://cdn.discordapp.com/attachments/885333229853356093/902392010332332032/unknown.png)
+![alt text]()
+![alt text]()
 ___
 
 Video URL:
-https://youtu.be/Z2QNKBs20Dw
+
 ___
 
 UML Diagram: 
@@ -37,6 +35,7 @@ UML Diagram:
 ___
 
 Third Party Acknowledgement:
-All assets used were created by Ayi Pranayanda 100765502
-No assets were borrowed from the internet
+The assets that were created by Ayi Pranayanda 100765502 consisted of: Chubby and Tilesets
+The assets created by me (Kimberly Hansuwan 100752265) consisted of: Dust Bunny & Start/End Screen, UI 
+No assets were borrowed from the internet. All assets belong to their respected owners and whatever unity gives. 
 ___
